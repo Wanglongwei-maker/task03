@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\allen\documents\visual studio 2015\projects\server1\server1\源.cpp(11): warning C4101: “sClient”: 未引用的局部变量
+  Server1.vcxproj -> C:\Users\Allen\documents\visual studio 2015\Projects\Server1\Debug\Server1.exe
+  Server1.vcxproj -> C:\Users\Allen\documents\visual studio 2015\Projects\Server1\Debug\Server1.pdb (Full PDB)
